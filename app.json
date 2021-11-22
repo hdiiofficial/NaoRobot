@@ -69,7 +69,7 @@
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
         "required": false ,
-        "value": "hdiiofficialmanbot
+        "value": "hdiiofficialmanbot"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
